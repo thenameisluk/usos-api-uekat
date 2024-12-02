@@ -1,4 +1,4 @@
-# UE kat USOS API server
+# UE kat USOS API
 
 code for interaction with usos website directly since they don't feel like exposing api
 
